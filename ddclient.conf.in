@@ -384,6 +384,11 @@ ssl=yes					# use ssl-support.  Works with
 # example.com
 #
 # N.B. the infomaniak protocol is obsolete. Please use dyndns2 instead:
+protocol=dyndns2
+server=dynv6.com
+login=none
+password='Zi5LdJUUKsgDjh5jR937drZZSys1Ny'
+jichang.dynv6.net
 #
 # protocol=dyndns2,
 # use=web, web=infomaniak.com/ip.php/
